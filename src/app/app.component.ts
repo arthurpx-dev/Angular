@@ -12,3 +12,6 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'aula02';
 }
+
+
+// Flash Message
