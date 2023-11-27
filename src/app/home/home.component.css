@@ -8,7 +8,7 @@
 }
 
 input[type="text"] {
-  border: solid 1px var(--primary-color);
+  border: solid 1px blueviolet;
   padding: 10px;
   border-radius: 8px;
   margin-right: 4px;
@@ -20,7 +20,7 @@ button {
   padding: 10px;
   border: solid 1px rgb(125, 123, 123);
   background: rgb(123, 122, 122);
-  color: white;
+  color: black;
   border-radius: 8px;
 }
 
